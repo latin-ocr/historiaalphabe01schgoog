@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaalphabe01schgoog_0007.png"; bbox 0 0 888 1323; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 607 1231 784 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 607 1231 784 1268">
+     <span class='ocr_line' id='line_1_1' title="bbox 607 1231 784 1268; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 607 1247 625 1260; x_wconf 53' lang='lat' dir='ltr'><em>Q</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 630 1248 657 1257; x_wconf 44' lang='grc' dir='ltr'>ως,</span> <span class='ocrx_word' id='word_1_3' title='bbox 663 1247 674 1260; x_wconf 39' lang='grc' dir='ltr'>μ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 681 1231 784 1268; x_wconf 71' lang='lat' dir='ltr'>Googlc</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 874 202 875 1250">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 874 202 875 1250">
+     <span class='ocr_line' id='line_1_2' title="bbox 874 202 875 1250; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 874 202 875 1250; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
